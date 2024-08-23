@@ -2,6 +2,9 @@
 
 ### Dashboard Link : https://github.com/emadfayed011190/-Blinkit-Grocery-Dashboard-report-on-Power-BI/blob/main/blinkit%20grocery%20data.pbix
 
+### snap link : https://github.com/emadfayed011190/-Blinkit-Grocery-Dashboard-report-on-Power-BI/blob/main/blinkit%20dashboard%20snap.PNG
+
+
 ## Problem Statement
 
 Blinkit is a leading e-commerce grocery platform in India, providing customers with a convenient and fast delivery service for their everyday grocery needs. As the company continues to grow, Blinkit's management team faces several challenges in effectively monitoring and managing their grocery business operations.
@@ -28,8 +31,6 @@ Blinkit is a leading e-commerce grocery platform in India, providing customers w
 - Step 9 : charts development and formatting
 - Step 10 : dashboard/report development
 - Step 11 : insight generation
-  snap link : https://github.com/emadfayed011190/-Blinkit-Grocery-Dashboard-report-on-Power-BI/blob/main/blinkit%20dashboard%20snap.PNG
-
 
 ## business requirement
 to condact acomprehnsive analysis of blinkit's sales performance customer sutisfaction and Inventory distribution to identify key insights and opportuinties for optimization using various KPIs and visulization in power BI
