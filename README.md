@@ -28,6 +28,7 @@ Blinkit is a leading e-commerce grocery platform in India, providing customers w
 - Step 9 : charts development and formatting
 - Step 10 : dashboard/report development
 - Step 11 : insight generation
+  snap link : https://github.com/emadfayed011190/-Blinkit-Grocery-Dashboard-report-on-Power-BI/blob/main/blinkit%20dashboard%20snap.PNG
 
 
 ## business requirement
