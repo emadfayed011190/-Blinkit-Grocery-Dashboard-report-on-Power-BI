@@ -1,6 +1,6 @@
 # Blinkit Grocery Dashboard on Power BI
 
-### Dashboard Link :C:\Users\dell\Desktop\pobi projects\blinkit dashboard
+### Dashboard Link : https://github.com/emadfayed011190/-Blinkit-Grocery-Dashboard-report-on-Power-BI/blob/main/blinkit%20grocery%20data.pbix
 
 ## Problem Statement
 
